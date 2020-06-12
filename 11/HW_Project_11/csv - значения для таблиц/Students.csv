@@ -1,0 +1,11 @@
+ID;Name;Surname;MiddleName;DateOfBirth;Email;Gender;PhoneNumber;HomePhoneNumber
+1;Jack;Caskey;-;31.07.1996;j.caskey@contoso.com;Male;10 171 515 303;18 171 515 303
+2;Melanie;Jadd;-;24.12.1998;m.jadd@constoso.com;Female;10 179 144 919;18 179 144 919
+3;Emmy;Jadd;-;01.05.1998;e.jadd@contoso.com;Female;10 606 900 707;18 606 900 707
+4;Cheap;Todds;-;28.02.1994;c.todds@contoso.com;Male;10 600 881 406;18 600 881 406
+5;Fred;Calkin;-;18.06.1994;f.calkin@contoso.com;Male;10 892 711 911;18 892 711 911
+6;Eva;Queens;-;01.01.1992;e.queens@contoso.com;Female;10 175 008 709;18 175 008 709
+7;Johnny;Gannt;-;08.10.1996;j.gannt@contoso.com;Male;10 171 571 200;18 171 571 200
+8;Mark;Rutergen;-;28.10.1996;m.rutergen@contoso.com;Male;10 179 142 300;18 179 142 300
+9;Antony;Stamps;-;14.08.1990;a.stamps@contoso.com;Male;10 898 100 993;18 898 100 993
+10;Mary;Evans;-;30.11.1990;m.evans@contoso.com;Female;10 173 300 505;18 173 300 505

@@ -1,0 +1,13 @@
+ID;Name;ShortName;Comments;Weighting;ThresholdPassMark;AllowedAttempts
+1;In-Class Test 1;T1;-;40%;4;2
+2;In-Class Test 2;T2;-;60%;4;2
+3;In-Class Test 1;T1;-;40%;4;2
+4;In-Class Test 2;T2;-;60%;4;2
+5;Coursework;CW;-;30%;4;1
+6;Coursework;CW;-;30%;4;1
+7;Essay;E;-;100%;4;1
+8;Essay;E;-;100%;4;1
+9;In-Class Test;T1;-;20%;4;2
+10;Final Exam;FE;-;50%;4;1
+11;In-Class Test;T1;-;20%;4;2
+12;Final Exam;FE;-;50%;4;1
